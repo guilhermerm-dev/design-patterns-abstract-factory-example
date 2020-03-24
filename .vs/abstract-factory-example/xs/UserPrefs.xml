@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{52E41BF7-6FEF-4CA2-A1A8-0C7A2A480FFE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="abstract-factory-example/Program.cs">
+    <Files>
+      <File FileName="abstract-factory-example/Program.cs" Line="13" Column="1" />
+      <File FileName="abstract-factory-example/AbstractFactory.cs" Line="10" Column="1" />
+      <File FileName="abstract-factory-example/Lion.cs" Line="13" Column="1" />
+      <File FileName="abstract-factory-example/Carnivore.cs" Line="9" Column="1" />
+      <File FileName="abstract-factory-example/Herbivore.cs" Line="1" Column="1" />
+      <File FileName="abstract-factory-example/Zebra.cs" Line="7" Column="1" />
+      <File FileName="abstract-factory-example/AfricaFactory.cs" Line="15" Column="1" />
+      <File FileName="abstract-factory-example/AnimalWorld.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="abstract-factory-example" expanded="True">
+            <Node name="abstract-factory-example" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.abstract-factory-example PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

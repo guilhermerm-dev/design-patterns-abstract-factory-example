@@ -1,0 +1,10 @@
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/bin/Debug/netcoreapp3.1/abstract-factory-example.deps.json
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/bin/Debug/netcoreapp3.1/abstract-factory-example.runtimeconfig.json
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/bin/Debug/netcoreapp3.1/abstract-factory-example.runtimeconfig.dev.json
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/bin/Debug/netcoreapp3.1/abstract-factory-example.dll
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/bin/Debug/netcoreapp3.1/abstract-factory-example.pdb
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/obj/Debug/netcoreapp3.1/abstract-factory-example.csprojAssemblyReference.cache
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/obj/Debug/netcoreapp3.1/abstract-factory-example.AssemblyInfoInputs.cache
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/obj/Debug/netcoreapp3.1/abstract-factory-example.AssemblyInfo.cs
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/obj/Debug/netcoreapp3.1/abstract-factory-example.dll
+/Users/guilhermerm/Documents/PersonalProjects/C#/abstract-factory-example/abstract-factory-example/abstract-factory-example/obj/Debug/netcoreapp3.1/abstract-factory-example.pdb
